@@ -4,3 +4,4 @@
 .DS_Store
 baxter_vision_example/frames.pdf
 baxter_vision_example/frames.gv
+CATKIN_IGNORE
